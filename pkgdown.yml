@@ -3,7 +3,7 @@ pkgdown: 2.1.3
 pkgdown_sha: ~
 articles:
   percentile-intervals: percentile-intervals.html
-last_built: 2025-08-24T09:52Z
+last_built: 2025-08-24T09:53Z
 urls:
   reference: https://m-arcob.github.io/uncertainr/reference
   article: https://m-arcob.github.io/uncertainr/articles
